@@ -1,10 +1,10 @@
 package br.com.curso.estrutura.no;
 
-public class No {
+public class TextoEmNo {
 	private String conteudo;
-	private No proximoNo;
+	private TextoEmNo proximoNo;
 	
-	public No(String conteudo) {
+	public TextoEmNo(String conteudo) {
 		this.proximoNo = null;
 		this.conteudo = conteudo;
 	}
@@ -17,17 +17,17 @@ public class No {
 		this.conteudo = conteudo;
 	}
 
-	public No getProximoNo() {
+	public TextoEmNo getProximoNo() {
 		return proximoNo;
 	}
 
-	public void setProximoNo(No proximoNo) {
+	public void setProximoNo(TextoEmNo proximoNo) {
 		this.proximoNo = proximoNo;
 	}
 
 	@Override
 	public String toString() {
-		return "No [conteudo=" + conteudo + "]";
+		return "TextoEmNo [conteudo=" + conteudo + "]";
 	}
 
 }

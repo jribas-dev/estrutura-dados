@@ -3,10 +3,10 @@ package br.com.curso.estrutura.no;
 public class Main {
 
 	public static void main(String[] args) {
-		No no1 = new No("Conteudo no1");
-		No no2 = new No("Conteudo no2");
-		No no3 = new No("Conteudo no3");
-		No no4 = new No("Conteudo no4");
+		TextoEmNo no1 = new TextoEmNo("Conteudo no1");
+		TextoEmNo no2 = new TextoEmNo("Conteudo no2");
+		TextoEmNo no3 = new TextoEmNo("Conteudo no3");
+		TextoEmNo no4 = new TextoEmNo("Conteudo no4");
 		
 		no1.setProximoNo(no2);
 		no2.setProximoNo(no3);
