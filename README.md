@@ -1,16 +1,28 @@
 # estrutura-dados
 Mecanismos de organização de dados que atendem diferentes requisitos
 
+<center>
 
-### ESTRUTURA DE DADOS => PILHA
+### TIPOS DE ESTRUTURA
+
+#### PILHA (LIFO)
 
 ![Estrutura em Pilha](./assets/pilha.jpg)
 	
-### ESTRUTURA DE DADOS => FILA
+#### FILA (FIFO)
 
 ![Estrutura em Fila](./assets/fila.jpg)
 	
-### ESTRUTURA DE DADOS => LISTA ENCADEADA
+#### LISTA ENCADEADA
 
-![Estrutura em Pilha](./assets/lista-encadeada.jpg)
+![Lista Encadeada](./assets/lista-encadeada.jpg)
 	
+#### LISTA DUPLAMENTE ENCADEADA
+
+![Lista Duplamente Encadeada](./assets/lista-duplamente-encadeada.jpg)
+
+#### LISTA CIRCULAR
+
+![Lista Circular](./assets/lista-circular.jpg)
+
+</center>
