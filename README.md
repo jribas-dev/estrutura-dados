@@ -25,4 +25,8 @@ Mecanismos de organização de dados que atendem diferentes requisitos
 
 ![Lista Circular](./assets/lista-circular.jpg)
 
+#### ÁRVORE BINÁRIA
+
+![Arvore Binaria](./assets/arvore-binaria.jpg)
+
 </center>
